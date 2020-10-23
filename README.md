@@ -18,8 +18,6 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## Github and Heroku Links
 
-*
+* <a href = "https://scribe-for-me.herokuapp.com/">Heroku Live Link</a>
 
-*
-
-2341234
+* <a href = "https://github.com/Drop-G/NoteTakerAssistant">Git Hub Repo Link</a>
