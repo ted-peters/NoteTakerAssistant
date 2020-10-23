@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Drop-G/NoteTakerAssistant/issues"
   },
-  "homepage": "https://github.com/Drop-G/NoteTakerAssistant#readme"
+  "homepage": "https://github.com/Drop-G/NoteTakerAssistant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
